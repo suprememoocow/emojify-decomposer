@@ -1,0 +1,22 @@
+{
+  "name": "emojify-decomposer",
+  "version": "0.0.1",
+  "description": "Emojify.js decomposer",
+  "main": "extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/suprememoocow/emotify.png.git"
+  },
+  "author": "Andrew Newdigate",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/suprememoocow/emotify.png/issues"
+  },
+  "homepage": "https://github.com/suprememoocow/emotify.png",
+  "dependencies": {
+    "less": "~1.5.1"
+  }
+}

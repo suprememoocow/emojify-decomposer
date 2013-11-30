@@ -1,0 +1,3 @@
+[submodule "emojifyjs"]
+	path = emojifyjs
+	url = git@github.com:hassankhan/emojify.js.git
