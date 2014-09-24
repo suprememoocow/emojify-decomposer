@@ -1,4 +1,5 @@
 # Emojify.js decomposer
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/suprememoocow/emojify-decomposer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Who doesn't love emojis? Nobody. Ever. Emojify.js is a great library for working with this, but the emoji's are baked
 into the CSS using data urls. This makes the download very large. This may be a problem if your application has
